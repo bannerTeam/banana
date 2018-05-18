@@ -16,7 +16,7 @@
 
 {include file="public/head"}
 	
-<div class="header_end"></div>
+<!--<div class="header_end"></div>-->
 <section class="container">
   <div class="fenlei">
     <div class="b-listfilter" style="padding: 0px;">
@@ -27,85 +27,74 @@
 }
 </style>
       <dl class="b-listfilter-item js-listfilter" style="padding-left: 0px;height:auto;padding-right:0px;">
-        <dd class="item g-clear js-listfilter-content" style="margin: 0;"> <a href='javascript:;' class="menu-itema" target='_self'>分类：</a> 
-			
-	        <a condition="($vo.type_name=="")"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>'','order'=>$param['order'],'by'=>$param['by'] ],'show')}">全部</a>
-			
+        <dd class="item g-clear js-listfilter-content" style="margin: 0;"> <a href='javascript:;' class="menu-itema" target='_self'>分类：</a>
+
+	        <!--<a condition="($vo.type_name=="")"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>'','order'=>$param['order'],'by'=>$param['by'] ],'show')}">全部</a>-->
+
 			{if condition="($obj.type_pid ==0)"}
-			 
+
 			{maccms:type parent="menu-itema" order="asc" by="sort"}
             <a {if condition="($vo.type_name==$obj.type_name)"}class="menu-itema"{/if} href="{:mac_url_type($vo,[],'show')}">{$vo.type_name}</a>
 	      	{/maccms:type}
-			
+
 			{else /}
-			
+
 			{maccms:type parent="'.$obj['type_pid'].'" order="asc" by="sort"}
                 <a {if condition="($vo.type_name==$obj.type_name)"}class="menu-itema"{/if} href="{:mac_url_type($vo,[],'show')}">{$vo.type_name}</a>
 		      {/maccms:type}
 			{/if}
-		
-			
-        
-			
-			
-		
-			
-			
-	  <a href='{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>'','order'=>$param['order'],'by'=>$param['by'] ],'show')}' target='_self'>返回</a> 
-		  
+
+	  <a href='{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>'','order'=>$param['order'],'by'=>$param['by'] ],'show')}' target='_self'>返回</a>
+
 		  </dd>
       </dl>
-      <dl class="b-listfilter-item js-listfilter" style="padding-left: 0px;height:auto;padding-right:0px;">
-        <dd class="item g-clear js-listfilter-content" style="margin: 0;"> <a href='javascript:;' class="menu-itema" target='_self'>类型：</a> 
-          <!----> 
-          <a {if condition="$param['class'] eq ''"} class="menu-itema" {/if} href='{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>'','order'=>$param['order'],'by'=>$param['by'] ],'show')}' class="menu-itema" target='_self'>全部</a> 
-	
-                {empty name="$obj.type_extend.area"}
-                {maccms:foreach name=":explode(',',$obj.parent.type_extend.class)" id="vo2" key="key2"}
-                <a {if condition="$param['class'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$vo2,'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>
-                {/maccms:foreach}
-                {else /}
-                {maccms:foreach name=":explode(',',$obj.type_extend.class)" id="vo2" key="key2"}
-                <a {if condition="$param['class'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$vo2,'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>
-                {/maccms:foreach}
-                {/empty}
-		  
-		  </dd>
-      </dl>
-      <dl class="b-listfilter-item js-listfilter" style="padding-left: 0px;height:auto;padding-right:0px;">
-        <dd class="item g-clear js-listfilter-content" style="margin: 0;"> <a href='javascript:;' class="menu-itema" target='_self'>地区：</a> 
-          <!----> 
-			  <a {if condition="$param['area'] eq ''"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>'','lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">全部</a>
-                {empty name="$obj.type_extend.area"}
-                    {maccms:foreach name=":explode(',',$obj.parent.type_extend.area)" id="vo2" key="key2"}
-                    <a {if condition="$param['area'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$vo2,'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>
-                    {/maccms:foreach}
-                {else /}
-                    {maccms:foreach name=":explode(',',$obj.type_extend.area)" id="vo2" key="key2"}
-                    <a {if condition="$param['area'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$vo2,'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>
-                    {/maccms:foreach}
-                {/empty}
-			
-       
-		  
-		  
-		  </dd>
-      </dl>
-      <dl class="b-listfilter-item js-listfilter" style="padding-left: 0px;height:auto;padding-right:0px;">
-        <dd class="item g-clear js-listfilter-content" style="margin: 0;"> <a href='javascript:;' class="menu-itema" target='_self'>年代：</a> 
-          <!----> 
-            <a {if condition="$param['year'] eq ''"} class="menu-itema"{/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>'','level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">全部</a>
-                {empty name="$obj.type_extend.year"}
-                    {maccms:foreach name=":explode(',',$obj.parent.type_extend.year)" id="vo2" key="key2"}
-                    <a {if condition="$param['area'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$vo2,'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>
-                    {/maccms:foreach}
-                {else /}
-                    {maccms:foreach name=":explode(',',$obj.type_extend.year)" id="vo2" key="key2"}
-                    <a {if condition="$param['year'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$vo2,'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>
-                    {/maccms:foreach}
-                {/empty}
-		  </dd>
-      </dl>
+      <!--<dl class="b-listfilter-item js-listfilter" style="padding-left: 0px;height:auto;padding-right:0px;">-->
+        <!--<dd class="item g-clear js-listfilter-content" style="margin: 0;"> <a href='javascript:;' class="menu-itema" target='_self'>类型：</a>-->
+          <!--&lt;!&ndash;&ndash;&gt;-->
+          <!--<a {if condition="$param['class'] eq ''"} class="menu-itema" {/if} href='{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>'','order'=>$param['order'],'by'=>$param['by'] ],'show')}' class="menu-itema" target='_self'>全部</a>-->
+
+                <!--{empty name="$obj.type_extend.area"}-->
+                <!--{maccms:foreach name=":explode(',',$obj.parent.type_extend.class)" id="vo2" key="key2"}-->
+                <!--<a {if condition="$param['class'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$vo2,'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>-->
+                <!--{/maccms:foreach}-->
+                <!--{else /}-->
+                <!--{maccms:foreach name=":explode(',',$obj.type_extend.class)" id="vo2" key="key2"}-->
+                <!--<a {if condition="$param['class'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$vo2,'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>-->
+                <!--{/maccms:foreach}-->
+                <!--{/empty}-->
+
+		  <!--</dd>-->
+      <!--</dl>-->
+      <!--<dl class="b-listfilter-item js-listfilter" style="padding-left: 0px;height:auto;padding-right:0px;">-->
+        <!--<dd class="item g-clear js-listfilter-content" style="margin: 0;"> <a href='javascript:;' class="menu-itema" target='_self'>地区：</a>-->
+          <!--&lt;!&ndash;&ndash;&gt;-->
+			  <!--<a {if condition="$param['area'] eq ''"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>'','lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">全部</a>-->
+                <!--{empty name="$obj.type_extend.area"}-->
+                    <!--{maccms:foreach name=":explode(',',$obj.parent.type_extend.area)" id="vo2" key="key2"}-->
+                    <!--<a {if condition="$param['area'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$vo2,'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>-->
+                    <!--{/maccms:foreach}-->
+                <!--{else /}-->
+                    <!--{maccms:foreach name=":explode(',',$obj.type_extend.area)" id="vo2" key="key2"}-->
+                    <!--<a {if condition="$param['area'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$vo2,'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>-->
+                    <!--{/maccms:foreach}-->
+                <!--{/empty}-->
+		  <!--</dd>-->
+      <!--</dl>-->
+      <!--<dl class="b-listfilter-item js-listfilter" style="padding-left: 0px;height:auto;padding-right:0px;">-->
+        <!--<dd class="item g-clear js-listfilter-content" style="margin: 0;"> <a href='javascript:;' class="menu-itema" target='_self'>年代：</a>-->
+          <!--&lt;!&ndash;&ndash;&gt;-->
+            <!--<a {if condition="$param['year'] eq ''"} class="menu-itema"{/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>'','level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">全部</a>-->
+                <!--{empty name="$obj.type_extend.year"}-->
+                    <!--{maccms:foreach name=":explode(',',$obj.parent.type_extend.year)" id="vo2" key="key2"}-->
+                    <!--<a {if condition="$param['area'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$vo2,'lang'=>$param['lang'],'year'=>$param['year'],'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>-->
+                    <!--{/maccms:foreach}-->
+                <!--{else /}-->
+                    <!--{maccms:foreach name=":explode(',',$obj.type_extend.year)" id="vo2" key="key2"}-->
+                    <!--<a {if condition="$param['year'] eq $vo2"} class="menu-itema" {/if} href="{:mac_url_type($obj,['area'=>$param['area'],'lang'=>$param['lang'],'year'=>$vo2,'level'=>$param['level'],'letter'=>$param['letter'],'state'=>$param['state'],'tag'=>$param['tag'],'class'=>$param['class'],'order'=>$param['order'],'by'=>$param['by'] ],'show')}">{$vo2}</a>-->
+                    <!--{/maccms:foreach}-->
+                <!--{/empty}-->
+		  <!--</dd>-->
+      <!--</dl>-->
     </div>
   </div>
   <div class="m-g">
