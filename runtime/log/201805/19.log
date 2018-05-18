@@ -1,0 +1,1729 @@
+---------------------------------------------------------------
+[ 2018-05-19T00:20:02+08:00 ] 127.0.0.1 GET /
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义数组索引: HTTP_REFERER
+[ error ] [8]未定义数组索引: index
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: parent
+[ error ] [8]未定义数组索引: format
+[ error ] [8]未定义数组索引: flag
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: num
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义变量: obj
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义变量: obj
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义变量: obj
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义变量: obj
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义变量: obj
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: num
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: format
+[ error ] [8]未定义数组索引: flag
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: num
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type_mid
+[ error ] [8]未定义数组索引: type_mid
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: type_en
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: type_mid
+[ error ] [8]未定义数组索引: type_mid
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: type_en
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: type_mid
+[ error ] [8]未定义数组索引: type_mid
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: type_en
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: type_mid
+[ error ] [8]未定义数组索引: type_mid
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: type_en
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ids
+[ error ] [8]未定义数组索引: paging
+[ error ] [8]未定义数组索引: pageurl
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: version
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: half
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: parent
+[ error ] [8]未定义数组索引: format
+[ error ] [8]未定义数组索引: flag
+[ error ] [8]未定义数组索引: start
+[ error ] [8]未定义数组索引: num
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: ajax
+[ error ] [8]未定义数组索引: tid
+[ error ] [8]未定义数组索引: mid
+[ error ] [8]未定义数组索引: rid
+[ error ] [8]未定义数组索引: pid
+[ error ] [8]未定义数组索引: sid
+[ error ] [8]未定义数组索引: nid
+[ error ] [8]未定义数组索引: uid
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: score
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: id
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: en
+[ error ] [8]未定义数组索引: state
+[ error ] [8]未定义数组索引: area
+[ error ] [8]未定义数组索引: year
+[ error ] [8]未定义数组索引: lang
+[ error ] [8]未定义数组索引: letter
+[ error ] [8]未定义数组索引: actor
+[ error ] [8]未定义数组索引: director
+[ error ] [8]未定义数组索引: tag
+[ error ] [8]未定义数组索引: class
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: by
+[ error ] [8]未定义数组索引: file
+[ error ] [8]未定义数组索引: name
+[ error ] [8]未定义数组索引: url
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: page
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001498s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_link` [ RunTime:0.001041s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `mac_link` WHERE  `link_type` = 0 LIMIT 1 [ RunTime:0.000528s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_link` WHERE  `link_type` = 0 ORDER BY `link_id` ASC LIMIT 0,10 [ RunTime:0.000442s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:07+08:00 ] 127.0.0.1 GET /admin.php
+[ error ] [8]Constant ADDON_PATH already defined
+---------------------------------------------------------------
+[ 2018-05-19T00:20:07+08:00 ] 127.0.0.1 GET /admin.php/admin/index/index.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义数组索引: HTTP_REFERER
+---------------------------------------------------------------
+[ 2018-05-19T00:20:08+08:00 ] 127.0.0.1 GET /admin.php/admin/index/login.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义数组索引: HTTP_REFERER
+[ error ] [8]未定义变量: background
+---------------------------------------------------------------
+[ 2018-05-19T00:20:08+08:00 ] 127.0.0.1 GET /index.php/verify/index.html
+[ error ] [8]Constant ADDON_PATH already defined
+---------------------------------------------------------------
+[ 2018-05-19T00:20:09+08:00 ] 127.0.0.1 GET /index.php/verify/index.html
+[ error ] [8]Constant ADDON_PATH already defined
+---------------------------------------------------------------
+[ 2018-05-19T00:20:09+08:00 ] 127.0.0.1 GET /admin.php/admin/index/login.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义变量: background
+---------------------------------------------------------------
+[ 2018-05-19T00:20:22+08:00 ] 127.0.0.1 POST /admin.php/admin/index/login.html
+[ error ] [8]Constant ADDON_PATH already defined
+---------------------------------------------------------------
+[ 2018-05-19T00:20:22+08:00 ] 127.0.0.1 GET /index.php/verify/index.html?
+[ error ] [8]Constant ADDON_PATH already defined
+---------------------------------------------------------------
+[ 2018-05-19T00:20:24+08:00 ] 127.0.0.1 GET /template/datll_wapian//template/qwysmb-html/images/favicon.png
+[ error ] [8]Constant ADDON_PATH already defined
+---------------------------------------------------------------
+[ 2018-05-19T00:20:28+08:00 ] 127.0.0.1 POST /admin.php/admin/index/login.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002011s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.000932s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_name` = 'admin'  AND `admin_pwd` = 'e15f99c42786c0625b5998c8ddfca448'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000502s ]
+[ sql ] [ SQL ] UPDATE `mac_admin`  SET `admin_login_ip`=2130706433,`admin_login_time`=1526660428,`admin_random`='ac31f4e607b21bc06add61d9b818dc77',`admin_last_login_time`=1526644339,`admin_last_login_ip`=2130706433  WHERE  `admin_name` = 'admin'  AND `admin_pwd` = 'e15f99c42786c0625b5998c8ddfca448'  AND `admin_status` = 1 [ RunTime:0.000497s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:28+08:00 ] 127.0.0.1 GET /admin.php/admin/index/index.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010321s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.001320s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000504s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:28+08:00 ] 127.0.0.1 GET /admin.php/admin/index/welcome.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001229s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.000905s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000458s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:39+08:00 ] 127.0.0.1 GET /admin.php/admin/index/welcome.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001130s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.000925s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000530s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:40+08:00 ] 127.0.0.1 GET /admin.php/admin/index/quickmenu.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010494s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.001013s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000613s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:41+08:00 ] 127.0.0.1 GET /admin.php/admin/vod/index.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: select
+[ error ] [8]未定义数组索引: input
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: lock
+[ error ] [8]未定义数组索引: lock
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: server
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: downer
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: select
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001080s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.001036s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000456s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_vod` [ RunTime:0.001274s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `mac_vod` LIMIT 1 [ RunTime:0.000498s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_vod` ORDER BY `vod_time` DESC LIMIT 0,20 [ RunTime:0.001140s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:42+08:00 ] 127.0.0.1 GET /admin.php/admin/vod/index.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: select
+[ error ] [8]未定义数组索引: input
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: lock
+[ error ] [8]未定义数组索引: lock
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: server
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: downer
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: select
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011009s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.000934s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000559s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_vod` [ RunTime:0.001458s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `mac_vod` LIMIT 1 [ RunTime:0.000414s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_vod` ORDER BY `vod_time` DESC LIMIT 0,20 [ RunTime:0.001028s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:44+08:00 ] 127.0.0.1 GET /admin.php/admin/vod/index.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义数组索引: page
+[ error ] [8]未定义数组索引: limit
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: select
+[ error ] [8]未定义数组索引: input
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: type
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: child
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: status
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: level
+[ error ] [8]未定义数组索引: lock
+[ error ] [8]未定义数组索引: lock
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: weekday
+[ error ] [8]未定义数组索引: server
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: player
+[ error ] [8]未定义数组索引: downer
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: pic
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: order
+[ error ] [8]未定义数组索引: wd
+[ error ] [8]未定义数组索引: select
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]未定义数组索引: page
+[ error ] [8]Use of undefined constant BIND_MODULE - assumed 'BIND_MODULE'
+[ error ] [8]Use of undefined constant color - assumed 'color'
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001972s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.001024s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_vod` [ RunTime:0.001337s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `mac_vod` LIMIT 1 [ RunTime:0.000406s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_vod` ORDER BY `vod_time` DESC LIMIT 0,20 [ RunTime:0.001075s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:20:52+08:00 ] 127.0.0.1 GET /admin.php/admin/collect/union.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010684s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.000824s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000451s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:23:05+08:00 ] 127.0.0.1 GET /admin.php/admin/index/index.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ error ] [8]未定义数组索引: HTTP_REFERER
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ error ] [8]未定义数组索引: icon
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001415s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.001004s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000462s ]
+---------------------------------------------------------------
+[ 2018-05-19T00:23:05+08:00 ] 127.0.0.1 GET /admin.php/admin/index/welcome.html
+[ error ] [8]Constant ADDON_PATH already defined
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001171s ] mysql:host=127.0.0.1;port=3306;dbname=banana;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `mac_admin` [ RunTime:0.000877s ]
+[ sql ] [ SQL ] SELECT * FROM `mac_admin` WHERE  `admin_id` = 1  AND `admin_name` = 'admin'  AND `admin_status` = 1 LIMIT 1 [ RunTime:0.000520s ]
