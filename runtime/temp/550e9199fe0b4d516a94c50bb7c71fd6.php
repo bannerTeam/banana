@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:5:{s:40:"template/datll_wapian/html/vod\type.html";i:1525940929;s:65:"D:\wamp\www\banana\template\datll_wapian\html\public\include.html";i:1525950030;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\head.html";i:1526009054;s:64:"D:\wamp\www\banana\template\datll_wapian\html\public\paging.html";i:1525940190;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\foot.html";i:1526015417;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:5:{s:40:"template/datll_wapian/html/vod\type.html";i:1526670005;s:65:"D:\wamp\www\banana\template\datll_wapian\html\public\include.html";i:1525950030;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\head.html";i:1526670093;s:64:"D:\wamp\www\banana\template\datll_wapian\html\public\paging.html";i:1525940190;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\foot.html";i:1526668797;}*/ ?>
 ﻿<!DOCTYPE HTML>
 <html>
   
@@ -31,25 +31,26 @@
     <h1 class="logo"><a href="/" title="<?php echo $maccms['site_name']; ?>"><img src="<?php echo $maccms['path_tpl']; ?>images/logo.png"><span><?php echo $maccms['site_name']; ?></span></a></h1>
     <div class="sitenav">
       <ul>
-		  
-        <li id="menu-item-18" class="menu-item"><a <?php if(($maccms['aid']==1)): ?> class="menu-itema-two"<?php else: endif; ?>   href="/">首页</a> </li>
+
+        <li id="menu-item-18" class="menu-item">
+          <!--<a <?php if(($maccms['aid']==1)): ?> class="menu-itema-two"<?php else: endif; ?>   href="/">首页</a> </li>-->
 		  <?php $__TAG__ = '{"ids":"parent","order":"asc","by":"sort"}';$__LIST__ = model("Type")->listCacheData($__TAG__); if(is_array($__LIST__['list']) || $__LIST__['list'] instanceof \think\Collection || $__LIST__['list'] instanceof \think\Paginator): $key = 0; $__LIST__ = $__LIST__['list'];if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($key % 2 );++$key;?>
         <li id="menu-item-<?php echo $vo['type_id']; ?>" class="menu-item"><a <?php if(($obj['type_name']==$vo['type_name'])): ?> class="menu-itema-two"<?php else: endif; ?> href="<?php echo mac_url_type($vo); ?>"><?php echo $vo['type_name']; ?></a></li>
 		   <?php endforeach; endif; else: echo "" ;endif; ?>
-       
+
       </ul>
     </div>
     <span class="sitenav-on"><i class="icon-list"></i></span> <span class="sitenav-mask"></span>
-    <div class="accounts"> <a class="account-weixin" href="javascript:;"><i class="fa"></i>
-      <div class="account-popover">
-        <div class="account-popover-content"><img src="<?php echo $maccms['path_tpl']; ?>images/qrcode.png"></div>
-      </div>
-      </a> </div>
-    <span class="searchstart-on"><i class="icon-search"></i></span> <span class="searchstart-off"><i class="icon-search"></i></span>
-    <form class="searchform"  name="search" method="POST" action="<?php echo mac_url('vod/search'); ?>" method="post" id="search">
-      <button tabindex="3" class="sbtn" type="submit"><i class="fa"></i></button>
-      <input tabindex="2" class="sinput" name="wd" type="text" placeholder="输入关键字" value="">
-    </form>
+    <!--<div class="accounts"> <a class="account-weixin" href="javascript:;"><i class="fa"></i>-->
+      <!--<div class="account-popover">-->
+        <!--<div class="account-popover-content"><img src="<?php echo $maccms['path_tpl']; ?>images/qrcode.png"></div>-->
+      <!--</div>-->
+      <!--</a> </div>-->
+    <!--<span class="searchstart-on"><i class="icon-search"></i></span> <span class="searchstart-off"><i class="icon-search"></i></span>-->
+    <!--<form class="searchform"  name="search" method="POST" action="<?php echo mac_url('vod/search'); ?>" method="post" id="search">-->
+      <!--<button tabindex="3" class="sbtn" type="submit"><i class="fa"></i></button>-->
+      <!--<input tabindex="2" class="sinput" name="wd" type="text" placeholder="输入关键字" value="">-->
+    <!--</form>-->
   </div>
 </header>
 <div class="header_end"></div>
@@ -62,7 +63,7 @@
   </form>
 </div>
 
-<div class="header_end"></div>
+<!--<div class="header_end"></div>-->
     <section class="container">
       <div class="fenlei">
         <div class="b-listfilter" style="padding: 0px;">
@@ -179,7 +180,7 @@
 <div class="branding branding-black">
 	<div class="container" style="text-align: center;">
 		<h2> <?php echo $maccms['site_name']; ?>- 海量高清VIP视频免费观看       如有想看的视频没有的可联系我添加</h2>
-						<a target="blank" class="gobtn" href="/">联系站长</a>	
+						<a target="blank" class="gobtn" href="/">联系站长</a>
 			</div>
 </div>
 <p style="padding: 0 4px;">免责声明:本站所有视频均来自互联网收集而来，版权归原创者所有，如果侵犯了你的权益，请通知我们，我们会及时删除侵权内容，谢谢合作！<br/>&copy; 2017 <a href="/"><?php echo $maccms['site_name']; ?></a>&nbsp; <a href="http://www.miitbeian.gov.cn"><?php echo $maccms['site_icp']; ?></a><br/></p></footer>
@@ -187,7 +188,7 @@
 
 <!--
 *
-*精仿挖片网免费模板
+*精仿大香蕉免费模板
 *
 *采集联盟网络技术工作室
 *
@@ -195,7 +196,7 @@
 *
 *qq：834023388
 *
-专业承接苹果cms 10x版本 模板制作
+专业承接大香蕉 10x版本 模板制作
 *
 全网唯一官网http://shop.datll.com
 *-->

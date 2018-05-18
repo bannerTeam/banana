@@ -63,7 +63,7 @@ function ckplayerConfig() {
 		},
 		menu: { //版权名称支持
 			ckkey: '364a22a9c74ed2b30dcb54f32bba7733',
-			name: '苹果CMS',
+			name: '大香蕉',
 			link: 'http://www.maccms.com',
 			version: 'version:X',
 			domain: 'maccms.com',

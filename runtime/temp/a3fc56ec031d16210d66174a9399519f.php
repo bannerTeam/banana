@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:42:"template/datll_wapian/html/vod\detail.html";i:1525947998;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\head.html";i:1526009054;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:42:"template/datll_wapian/html/vod\detail.html";i:1526667380;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\head.html";i:1526670093;}*/ ?>
 ﻿<!DOCTYPE HTML>
 <html>
 <head>
@@ -25,7 +25,7 @@
 <meta name="description" content="提供最新最快的影视资讯和在线播放">
 	
 	
-<title>头号玩家在线观看-挖片网</title>
+<title>头号玩家在线观看-大香蕉</title>
 <link rel="Shortcut Icon" href="<?php echo $maccms['path_tpl']; ?>/template/qwysmb-html/images/favicon.png">
 <link rel="Bookmark" href="<?php echo $maccms['path_tpl']; ?>/template/qwysmb-html/images/favicon.png">
 <!--[if lt IE 9]><script src="js/html5.js"></script><![endif]-->
@@ -41,25 +41,26 @@
     <h1 class="logo"><a href="/" title="<?php echo $maccms['site_name']; ?>"><img src="<?php echo $maccms['path_tpl']; ?>images/logo.png"><span><?php echo $maccms['site_name']; ?></span></a></h1>
     <div class="sitenav">
       <ul>
-		  
-        <li id="menu-item-18" class="menu-item"><a <?php if(($maccms['aid']==1)): ?> class="menu-itema-two"<?php else: endif; ?>   href="/">首页</a> </li>
+
+        <li id="menu-item-18" class="menu-item">
+          <!--<a <?php if(($maccms['aid']==1)): ?> class="menu-itema-two"<?php else: endif; ?>   href="/">首页</a> </li>-->
 		  <?php $__TAG__ = '{"ids":"parent","order":"asc","by":"sort"}';$__LIST__ = model("Type")->listCacheData($__TAG__); if(is_array($__LIST__['list']) || $__LIST__['list'] instanceof \think\Collection || $__LIST__['list'] instanceof \think\Paginator): $key = 0; $__LIST__ = $__LIST__['list'];if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($key % 2 );++$key;?>
         <li id="menu-item-<?php echo $vo['type_id']; ?>" class="menu-item"><a <?php if(($obj['type_name']==$vo['type_name'])): ?> class="menu-itema-two"<?php else: endif; ?> href="<?php echo mac_url_type($vo); ?>"><?php echo $vo['type_name']; ?></a></li>
 		   <?php endforeach; endif; else: echo "" ;endif; ?>
-       
+
       </ul>
     </div>
     <span class="sitenav-on"><i class="icon-list"></i></span> <span class="sitenav-mask"></span>
-    <div class="accounts"> <a class="account-weixin" href="javascript:;"><i class="fa"></i>
-      <div class="account-popover">
-        <div class="account-popover-content"><img src="<?php echo $maccms['path_tpl']; ?>images/qrcode.png"></div>
-      </div>
-      </a> </div>
-    <span class="searchstart-on"><i class="icon-search"></i></span> <span class="searchstart-off"><i class="icon-search"></i></span>
-    <form class="searchform"  name="search" method="POST" action="<?php echo mac_url('vod/search'); ?>" method="post" id="search">
-      <button tabindex="3" class="sbtn" type="submit"><i class="fa"></i></button>
-      <input tabindex="2" class="sinput" name="wd" type="text" placeholder="输入关键字" value="">
-    </form>
+    <!--<div class="accounts"> <a class="account-weixin" href="javascript:;"><i class="fa"></i>-->
+      <!--<div class="account-popover">-->
+        <!--<div class="account-popover-content"><img src="<?php echo $maccms['path_tpl']; ?>images/qrcode.png"></div>-->
+      <!--</div>-->
+      <!--</a> </div>-->
+    <!--<span class="searchstart-on"><i class="icon-search"></i></span> <span class="searchstart-off"><i class="icon-search"></i></span>-->
+    <!--<form class="searchform"  name="search" method="POST" action="<?php echo mac_url('vod/search'); ?>" method="post" id="search">-->
+      <!--<button tabindex="3" class="sbtn" type="submit"><i class="fa"></i></button>-->
+      <!--<input tabindex="2" class="sinput" name="wd" type="text" placeholder="输入关键字" value="">-->
+    <!--</form>-->
   </div>
 </header>
 <div class="header_end"></div>

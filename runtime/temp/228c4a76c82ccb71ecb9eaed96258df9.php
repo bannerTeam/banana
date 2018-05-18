@@ -1,11 +1,11 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:60:"D:\wamp\www\banana/application/admin\view\index\welcome.html";i:1526021716;s:58:"D:\wamp\www\banana\application\admin\view\public\head.html";i:1522628861;s:58:"D:\wamp\www\banana\application\admin\view\public\foot.html";i:1526021730;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:60:"D:\wamp\www\banana/application/admin\view\index\welcome.html";i:1526667684;s:58:"D:\wamp\www\banana\application\admin\view\public\head.html";i:1526667685;s:58:"D:\wamp\www\banana\application\admin\view\public\foot.html";i:1526021730;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title><?php echo $title; ?> - 苹果CMS</title>
+    <title><?php echo $title; ?> - 大香蕉</title>
     <link rel="stylesheet" href="/static/layui/css/layui.css">
     <link rel="stylesheet" href="/static/css/admin_style.css">
     <script type="text/javascript" src="/static/js/jquery.js"></script>
@@ -19,7 +19,7 @@
     <?php $pass="<strong class='green'>√</strong>";$error="<strong class='red'>×</strong>";?>
 
     <blockquote class="layui-elem-quote layui-quote-nm mt10">
-        <p class="f-20 text-success">欢迎使用苹果CMS，一路陪伴，感恩有你！请不要修改系统文件，以免升级出现故障！</p>
+        <p class="f-20 text-success">欢迎使用大香蕉，一路陪伴，感恩有你！请不要修改系统文件，以免升级出现故障！</p>
         <p>登录次数：<?php echo $info['admin_login_num']; ?>  上次登录IP：<?php echo long2ip($info['admin_last_login_ip']); ?>  上次登录时间：<?php echo mac_day($info['admin_last_login_time']); ?></p>
     </blockquote>
 

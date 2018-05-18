@@ -1,11 +1,11 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:58:"D:\wamp\www\banana/application/admin\view\index\index.html";i:1525404821;s:58:"D:\wamp\www\banana\application\admin\view\public\head.html";i:1522628861;s:58:"D:\wamp\www\banana\application\admin\view\public\foot.html";i:1526021730;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:58:"D:\wamp\www\banana/application/admin\view\index\index.html";i:1526667688;s:58:"D:\wamp\www\banana\application\admin\view\public\head.html";i:1526667685;s:58:"D:\wamp\www\banana\application\admin\view\public\foot.html";i:1526021730;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title><?php echo $title; ?> - 苹果CMS</title>
+    <title><?php echo $title; ?> - 大香蕉</title>
     <link rel="stylesheet" href="/static/layui/css/layui.css">
     <link rel="stylesheet" href="/static/css/admin_style.css">
     <script type="text/javascript" src="/static/js/jquery.js"></script>
@@ -28,7 +28,7 @@
 </style>
 <div class="layui-layout layui-layout-admin">
     <div class="layui-header">
-        <div class="fl header-logo">苹果CMS v10控制台</div>
+        <div class="fl header-logo">大香蕉 v10控制台</div>
         <div class="fl header-fold"><a href="javascript:;" title="打开/关闭左侧导航" class="aicon ai-caidan" id="foldSwitch"><i class="layui-icon">&#xe65f;</i></a></div>
         <ul class="layui-nav fl nobg main-nav">
             <?php if(is_array($menus) || $menus instanceof \think\Collection || $menus instanceof \think\Paginator): $i = 0; $__LIST__ = $menus;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;if(($i == 1)): ?>

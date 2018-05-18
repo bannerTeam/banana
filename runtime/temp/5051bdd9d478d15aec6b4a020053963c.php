@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:43:"template/datll_wapian/html/index\index.html";i:1526036741;s:65:"D:\wamp\www\banana\template\datll_wapian\html\public\include.html";i:1525950030;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\head.html";i:1526009054;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\foot.html";i:1526015417;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:43:"template/datll_wapian/html/index\index.html";i:1526669636;s:65:"D:\wamp\www\banana\template\datll_wapian\html\public\include.html";i:1525950030;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\head.html";i:1526669434;s:62:"D:\wamp\www\banana\template\datll_wapian\html\public\foot.html";i:1526668797;}*/ ?>
 ﻿<!DOCTYPE HTML>
 <html>
 <head>
@@ -29,12 +29,13 @@
     <h1 class="logo"><a href="/" title="<?php echo $maccms['site_name']; ?>"><img src="<?php echo $maccms['path_tpl']; ?>images/logo.png"><span><?php echo $maccms['site_name']; ?></span></a></h1>
     <div class="sitenav">
       <ul>
-		  
-        <li id="menu-item-18" class="menu-item"><a <?php if(($maccms['aid']==1)): ?> class="menu-itema-two"<?php else: endif; ?>   href="/">首页</a> </li>
+
+        <li id="menu-item-18" class="menu-item">
+          <!--<a <?php if(($maccms['aid']==1)): ?> class="menu-itema-two"<?php else: endif; ?>   href="/">首页</a> </li>-->
 		  <?php $__TAG__ = '{"ids":"parent","order":"asc","by":"sort"}';$__LIST__ = model("Type")->listCacheData($__TAG__); if(is_array($__LIST__['list']) || $__LIST__['list'] instanceof \think\Collection || $__LIST__['list'] instanceof \think\Paginator): $key = 0; $__LIST__ = $__LIST__['list'];if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($key % 2 );++$key;?>
         <li id="menu-item-<?php echo $vo['type_id']; ?>" class="menu-item"><a <?php if(($obj['type_name']==$vo['type_name'])): ?> class="menu-itema-two"<?php else: endif; ?> href="<?php echo mac_url_type($vo); ?>"><?php echo $vo['type_name']; ?></a></li>
 		   <?php endforeach; endif; else: echo "" ;endif; ?>
-       
+
       </ul>
     </div>
     <span class="sitenav-on"><i class="icon-list"></i></span> <span class="sitenav-mask"></span>
@@ -59,9 +60,9 @@
     <button id="button" tabindex="3" class="homesobtn" type="submit"><i class="fa">搜索</i></button>
   </form>
 </div>
- 
 
-<!--幻灯片开始-->
+
+幻灯片开始
 <div id="wrapper">
   <div class="fullwidthbanner-container">
     <div class="fullwidthbanner">
@@ -73,7 +74,7 @@
     </div>
   </div>
 </div>
-<!--幻灯片结束-->
+幻灯片结束
 <section class="container">
   <div class="index_film">
     <div class="single-strong">热门推荐<!--<span class="chak"><a href="[matrix:link]">查看更多</a></span>--></div>
@@ -120,16 +121,16 @@
   </div>
   <div class="hot_film">
     <div class="single-strong"><?php echo $vo1['type_name']; ?>排行榜</div>
-	  
+
 	  <?php if($vo1['type_id'] == 1): ?>
-	  
+
 	  <div class="hot_film_list">
 		<?php $__TAG__ = '{"num":"22","type":"'.$vo['type_id'].'","order":"desc","by":"time"}';$__LIST__ = model("Vod")->listCacheData($__TAG__); if(is_array($__LIST__['list']) || $__LIST__['list'] instanceof \think\Collection || $__LIST__['list'] instanceof \think\Paginator): $key = 0; $__LIST__ = $__LIST__['list'];if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($key % 2 );++$key;?>
 		<a href="<?php echo mac_url_vod_detail($vo); ?> "><span class=" <?php if(($key <=3)): ?>Serial_number<?php else: ?>Serial_numberh <?php endif; ?>"><?php echo $key; ?></span><span class="vodname"><?php echo $vo['vod_name']; ?></span><span class="list_score"><?php echo $vo['vod_score']; ?></span></a> <?php endforeach; endif; else: echo "" ;endif; ?>
 	  </div>
-	  
+
 	  <?php else: ?>
-	  
+
 	   <div class="hot_film_list">
 		<?php $__TAG__ = '{"num":"9","type":"'.$vo['type_id'].'","order":"desc","by":"time"}';$__LIST__ = model("Vod")->listCacheData($__TAG__); if(is_array($__LIST__['list']) || $__LIST__['list'] instanceof \think\Collection || $__LIST__['list'] instanceof \think\Paginator): $key = 0; $__LIST__ = $__LIST__['list'];if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($key % 2 );++$key;?>
 		<a href="<?php echo mac_url_vod_detail($vo); ?> "><span class=" <?php if(($key <=3)): ?>Serial_number<?php else: ?>Serial_numberh <?php endif; ?>"><?php echo $key; ?></span><span class="vodname"><?php echo $vo['vod_name']; ?></span><span class="list_score"><?php echo $vo['vod_score']; ?></span></a> <?php endforeach; endif; else: echo "" ;endif; ?>
@@ -138,28 +139,28 @@
     <div class="hot_film_list">
 		<?php $__TAG__ = '{"num":"9","type":"'.$vo['type_id'].'","order":"desc","by":"time"}';$__LIST__ = model("Vod")->listCacheData($__TAG__); if(is_array($__LIST__['list']) || $__LIST__['list'] instanceof \think\Collection || $__LIST__['list'] instanceof \think\Paginator): $key = 0; $__LIST__ = $__LIST__['list'];if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($key % 2 );++$key;?>
 		<a href="<?php echo mac_url_vod_detail($vo); ?> "><span class="<?php if(($key <= 3)): ?>Serial_number<?php else: ?>Serial_numberh <?php endif; ?>""><?php echo $key; ?></span><span class="vodname"><?php echo $vo['vod_name']; ?></span><span class="list_score"><?php echo $vo['vod_score']; ?>分</span></a>
-		
-		
-		
+
+
+
 		<?php endforeach; endif; else: echo "" ;endif; ?>
 	  </div>
-	  
+
 	  <?php endif; ?>
-   
+
   </div>
   <?php endforeach; endif; else: echo "" ;endif; ?>
   <div class="link1">
     <div class="single-strong">友情链接 <span class="chak_link">[ 申请友链联系QQ:<?php echo $maccms['site_qq']; ?> ]</span></div>
   </div>
   <div class="link">
-  
+
     <?php $__TAG__ = '{"num":"10","type":"font"}';$__LIST__ = model("Link")->listCacheData($__TAG__); if(is_array($__LIST__['list']) || $__LIST__['list'] instanceof \think\Collection || $__LIST__['list'] instanceof \think\Paginator): $key = 0; $__LIST__ = $__LIST__['list'];if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($key % 2 );++$key;?>
        <a class="alink" href="<?php echo $vo['link_url']; ?>" target="_blank"> <?php echo $vo['link_name']; ?></a>
-       
+
     <?php endforeach; endif; else: echo "" ;endif; ?>
   </div>
-	
-	
+
+
 </section>
 
 <div class="foornav"> 
@@ -175,7 +176,7 @@
 <div class="branding branding-black">
 	<div class="container" style="text-align: center;">
 		<h2> <?php echo $maccms['site_name']; ?>- 海量高清VIP视频免费观看       如有想看的视频没有的可联系我添加</h2>
-						<a target="blank" class="gobtn" href="/">联系站长</a>	
+						<a target="blank" class="gobtn" href="/">联系站长</a>
 			</div>
 </div>
 <p style="padding: 0 4px;">免责声明:本站所有视频均来自互联网收集而来，版权归原创者所有，如果侵犯了你的权益，请通知我们，我们会及时删除侵权内容，谢谢合作！<br/>&copy; 2017 <a href="/"><?php echo $maccms['site_name']; ?></a>&nbsp; <a href="http://www.miitbeian.gov.cn"><?php echo $maccms['site_icp']; ?></a><br/></p></footer>
@@ -183,7 +184,7 @@
 
 <!--
 *
-*精仿挖片网免费模板
+*精仿大香蕉免费模板
 *
 *采集联盟网络技术工作室
 *
@@ -191,12 +192,12 @@
 *
 *qq：834023388
 *
-专业承接苹果cms 10x版本 模板制作
+专业承接大香蕉 10x版本 模板制作
 *
 全网唯一官网http://shop.datll.com
 *-->
- 
-<script type='text/javascript' src='<?php echo $maccms['path_tpl']; ?>js/main.js'></script> 
+
+<script type='text/javascript' src='<?php echo $maccms['path_tpl']; ?>js/main.js'></script>
 <!--<script type="text/javascript"> document.body.oncontextmenu=document.body.ondragstart= document.body.onselectstart=document.body.onbeforecopy=function(){return false;};
 document.body.onselect=document.body.oncopy=document.body.onmouseup=function(){document.selection.empty();}; </script>-->
 <?php echo $maccms['site_tj']; ?>

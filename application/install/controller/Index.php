@@ -202,7 +202,7 @@ class Index extends Controller
         // 获取站点根目录
         $root_dir = request()->baseFile();
         $root_dir  = preg_replace(['/install.php$/'], [''], $root_dir);
-        return $this->success('系统安装成功，欢迎您使用苹果CMS建站', $root_dir.'admin.php');
+        return $this->success('系统安装成功，欢迎您使用大香蕉建站', $root_dir.'admin.php');
     }
     
     /**

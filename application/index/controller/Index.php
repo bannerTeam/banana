@@ -5,6 +5,8 @@ class Index extends Base
 {
     public function index()
     {
+        header('Location: /index.php/vod/type/id/1.html');
+        exit;
         $param = mac_param_url();
         return $this->fetch( 'index/index');
     }
