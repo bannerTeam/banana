@@ -64,15 +64,6 @@
 .fr {float: right; _display: inline;}
 .clearfix:after {visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0} .clearfix{*zoom:1;}
 
-/*-Pages-*/
-.mac_pages {text-align:center; padding:4px 0; overflow:hidden;}
-.mac_pages .page_tip {margin-left:4px; font-weight:bold; color:#7f7f7f;  font-weight:normal;}
-.mac_pages .page_link{display:inline-block; padding:2px 4px; border:1px solid #ddd; margin-left:4px;}
-.mac_pages .page_link{display:inline-block; padding:2px 4px; border:1px solid #ddd; margin-left:4px;}
-.mac_pages .page_current{display:inline-block; padding:2px 4px; background-color : #fee; border : 1px solid red; color : red; margin-left:4px;}
-.mac_pages .page_input {margin-left:4px; height:22px; width:30px;}
-.mac_pages .page_btn{border:1px solid #CCCCCC; height:24px; width:40px;text-align:center; cursor: hand;}
-/*-/Page-*/
 
 
 /*文章顶踩图标*/

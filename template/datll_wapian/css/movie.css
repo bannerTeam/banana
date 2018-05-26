@@ -186,22 +186,23 @@
 
 .b-listtab-main .list
 {
-    margin-left:-56px;
+    margin-left:-60px;
 }
 
 .b-listtab-main .item
 {
     float:left;
-    width:191px;
-    height:311px;
+    width:285px;
+    height:268px;
     border-bottom:1px solid #e9e9e9;
     margin:0 0 20px 20px;
+    overflow: hidden;;
 }
 
 .b-listtab-main .cover
 {
     width:100%;
-    height:258px;
+    height:213px;
     overflow:hidden;
     position:relative;
     font-size:12px;
@@ -734,7 +735,7 @@ to
     display:none;
 }
 
-.b-listtab-main .cover img,.eb-mediav-500 .item img,.eb-mediav-500 .appdown img
+.eb-mediav-500 .item img,.eb-mediav-500 .appdown img
 {
     width:100%;
     height:100%;

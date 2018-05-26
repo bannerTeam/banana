@@ -9,3 +9,19 @@
 <script type="text/javascript" src="{$maccms.path_tpl}js/jquery.banner.revolution.min.js"></script>
 <script type="text/javascript" src="{$maccms.path_tpl}js/banner.js"></script>
 <link rel="stylesheet" type="text/css" href="{$maccms.path_tpl}css/slide.css" media="screen" />
+
+<script src="{$maccms.path}static/js/home.js"></script><!--内置js插件-->
+<link rel="stylesheet" type="text/css" href="{$maccms.path}static/css/home.css" />
+<script type="text/javascript">
+    var maccms = []; maccms.path = "";
+    $(function(){
+        if(MAC.Cookie.Get('user_name')) {
+            $(".header_user_not").hide();
+            $(".header_user_in .username").html(MAC.Cookie.Get('user_name'));
+            $(".header_user_in ").show();
+        } else {
+            $(".header_user_not").show();
+            $(".header_user_in ").hide();
+        }
+    });
+</script>

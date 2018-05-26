@@ -633,10 +633,11 @@ var MAC={
                 ac= 'ajax_info';
             }
             MAC.Pop.Show(400,380,'用户登录',maccms.path+'/index.php/user/'+ac,function($r){
+                $(".mac_pop").css({"width": "450px", "height": "420px"}).prependTo($("section"));
                 $('body').on('click', '.login_form_submit', function(e){
                     $.ajax({
                         type: 'POST',
-                        url: maccms.path + '/index.php/user/login',
+                        url: maccms.path + '/index.php/user/login.html',
                         data: $('.mac_login_form').serialize(),
                         success:function($r){
                             alert($r.msg);
