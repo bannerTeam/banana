@@ -4363,7 +4363,7 @@ body {
 
 footer .container{height:180px;}
 footer .container ul, footer .container li {list-style: none;}
-footer .container .footer-logo a{width:179px;height:51px;margin-top:60px;background:url(../images/logo.png) no-repeat;}
+footer .container .footer-logo a{width:179px;height:51px;margin-top:60px;background:url(../images/logo.png) no-repeat center #fff;}
 footer .container .footer-r{padding-top:22px;}
 footer .container .footer-r .about-us{width:170px;text-align: center;}
 footer .container .footer-r .about-us h3{margin-bottom:20px;color:white;font-size: 17px;font-weight:bold;}
