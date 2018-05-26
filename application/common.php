@@ -1101,6 +1101,9 @@ function mac_get_page($page)
 
 function mac_tpl_fetch($model,$tpl,$def='')
 {
+    echo $model . '/' . ( empty($tpl) ? $def  : str_replace('.html','',$tpl) );
+
+    exit;
     return $model . '/' . ( empty($tpl) ? $def  : str_replace('.html','',$tpl) );
 }
 
