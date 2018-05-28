@@ -22,8 +22,13 @@ class Vod extends Base
 
     public function show()
     {
-        $info = $this->label_type();
-        return $this->fetch( mac_tpl_fetch('vod',$info['type_tpl_list'],'show') );
+        //var_dump(111);
+        //$info = $this->label_type();
+        //var_dump(mac_tpl_fetch('vod',$info['type_tpl_list'],'show') );
+        //$t = mac_tpl_fetch('vod',$info['type_tpl_list'],'show');
+        $tpl = 'vod/show';
+        //var_dump($vo);
+        return $this->fetch( $tpl );
     }
 
     public function ajax_show()
