@@ -16,6 +16,8 @@
     padding-left:36px;
     padding-right:50px;
     border-bottom:1px dashed #e6e6e6;
+    width: 1200px;
+    margin:15px auto;
 }
 
 .b-listfilter-item:last-child
@@ -45,8 +47,8 @@
     font-size: 14px;
     white-space:nowrap;
     word-wrap:break-word;
-    margin:5px 0 5px 16px;
-    padding:2px 6px;
+    margin:5px 20px 5px 0px;
+    padding:2px 0px;
 }
 
 .b-listfilter-item .act
@@ -186,7 +188,7 @@
 
 .b-listtab-main .list
 {
-    margin-left:-60px;
+    margin-left:-50px;
 }
 
 .b-listtab-main .item
