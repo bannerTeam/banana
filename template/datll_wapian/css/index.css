@@ -1,71 +1,79 @@
-﻿.b-listfilter {
-    padding: 0 20px;
-    background-color: #fff;
-    border: 1px solid #e6e6e6;
-    font-size: 12px;
-    line-height: 16px
+﻿.b-listfilter
+{
+    background-color:#fff;
+    border:1px solid #e6e6e6;
+    font-size:12px;
+    line-height:16px;
+    padding:0 20px;
 }
 
-.b-listfilter-item {
-    position: relative;
-    overflow: hidden;
-    height: 40px;
-    zoom: 1;
-    padding-left: 36px;
-    padding-right: 50px;
-    border-bottom: 1px dashed #e6e6e6
+.b-listfilter-item
+{
+    position:relative;
+    overflow:hidden;
+    height:40px;
+    zoom:1;
+    padding-left:36px;
+    padding-right:50px;
+    border-bottom:1px dashed #e6e6e6;
+    width: 1200px;
+    margin:15px auto;
 }
 
-.b-listfilter-item:last-child {
-    border-bottom: 0
+.b-listfilter-item:last-child
+{
+    border-bottom:0;
 }
 
-.b-listfilter-item .type {
-    position: absolute;
-    left: 0;
-    top: 10px;
-    color: #999;
-    padding: 2px 0
+.b-listfilter-item .type
+{
+    position:absolute;
+    left:0;
+    top:10px;
+    color:#999;
+    padding:2px 0;
 }
 
-.b-listfilter-item .item {
-    padding: 5px 0
+.b-listfilter-item .item
+{
+    padding:5px 0;
 }
 
-.b-listfilter-item .item a {
-    float: left;
-    margin: 5px 0 5px 16px;
-    padding: 2px 6px;
-    zoom: 1;
-    height: 20px;
-    white-space: nowrap;
-    word-wrap: break-word
+.b-listfilter-item .item a
+{
+    float:left;
+    zoom:1;
+    height:20px;
+    font-size: 14px;
+    white-space:nowrap;
+    word-wrap:break-word;
+    margin:5px 20px 5px 0px;
+    padding:2px 0px;
 }
 
-.b-listfilter-item .on:hover, .b-listfilter-item .on {
-    background-color: #aik651;
-    color: #fff
+.b-listfilter-item .act
+{
+    position:absolute;
+    right:0;
+    top:12px;
+    height:16px;
+    line-height:16px;
 }
 
-.b-listfilter-item .act {
-    position: absolute;
-    right: 0;
-    top: 12px;
-    height: 16px;
-    line-height: 16px
+.b-listfilter-item .act a
+{
+    display:none;
+    padding:0 13px 0 0;
 }
 
-.b-listfilter-item .act a {
-    padding: 0 13px 0 0;
-    display: none
+.b-listfilter-item .open
+{
+    background:url(images/t0187f8287120a671ea.png) right center no-repeat;
 }
 
-.b-listfilter-item .open {
-    background: url(images/t0187f8287120a671ea.png) right center no-repeat
-}
-
-.b-listfilter-item .close {
-    background: url(images/t018dad77370f0fe67d.png) right center no-repeat
+.b-listfilter-item .close
+{
+    background:url(images/t018dad77370f0fe67d.png) right center no-repeat;
 }
 
 .b-listtab {

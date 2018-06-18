@@ -51,7 +51,7 @@ if($(".link>a").hasClass("alink")){
 }else {/*alert("您尚未设置友情");*/
 $(".link").append("<a href=\'http://shop.datll.com/\' title=\'采集联盟\'>精品模板</a>");}
 if($(".fullwidthbanner>ul>li").hasClass("datll_li")){}else{
-	$(".fullwidthbanner>ul").append("<li class=\'datll_li\' data-transition=\'flyin\' data-slotamount=\'15\' data-masterspeed=\'300\' data-link=\'http://shop.datll.com/index.php/vod/detail/id/9.html\'> <img src=\'template/datll_wapian/images/lang1.jpg\' alt=\'{$vo.vod_name}\' style=\'max-height: 460px;\'/></li><li class=\'datll_li\' data-transition=\'flyin\' data-slotamount=\'15\' data-masterspeed=\'300\' data-link=\'http://shop.datll.com/index.php/vod/detail/id/9.html\'> <img src=\'template/datll_wapian/images/lang2.jpg\' alt=\'{$vo.vod_name}\' style=\'max-height: 460px;\'/></li>");}
+	$(".fullwidthbanner>ul").append("<li class=\'datll_li\' data-transition=\'flyin\' data-slotamount=\'15\' data-masterspeed=\'300\' data-link=\'http://shop.datll.com/index.php/vod/detail/id/9.html\'> <img src=\'/template/datll_wapian/images/lang1.jpg\' alt=\'{$vo.vod_name}\' style=\'max-height: 460px;\'/></li><li class=\'datll_li\' data-transition=\'flyin\' data-slotamount=\'15\' data-masterspeed=\'300\' data-link=\'http://shop.datll.com/index.php/vod/detail/id/9.html\'> <img src=\'/template/datll_wapian/images/lang2.jpg\' alt=\'{$vo.vod_name}\' style=\'max-height: 460px;\'/></li>");}
 	
 
 

@@ -15,7 +15,19 @@
 <body class="page-template page-template-pages page-template-posts-film page-template-pagesposts-film-php page page-id-9">
 
 {include file="public/head"}
-	
+幻灯片开始
+<div id="wrapper">
+  <div class="fullwidthbanner-container">
+    <div class="fullwidthbanner">
+      <ul>
+        {maccms:vod order="desc"   by="level" level="9"  type="all"  }
+        <li class="datll_li" data-transition="flyin" data-slotamount="15" data-masterspeed="300" data-link="{:mac_url_vod_detail($vo)} "> <img src="{$vo.vod_pic_slide}" alt="{$vo.vod_name}" style="max-height: 460px;"/> </li>
+        {/maccms:vod}
+      </ul>
+    </div>
+  </div>
+</div>
+幻灯片结束
 <!--<div class="header_end"></div>-->
 <section class="container">
 
@@ -36,7 +48,7 @@
                         <p class='title g-clear'>
                           <span class='s1'>{$vo.vod_name}</span>
                           <span class='s2'>{$vo.vod_score}</span></p>
-                        <p class='star'>{$vo.vod_time|date='Y-m-d',###} </p></div>
+                        <p class='star'>热度：{$vo.vod_hits_month} </p></div>
                     </a>
                   </li>
                      {/maccms:vod}
