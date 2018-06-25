@@ -1560,7 +1560,7 @@ body {
     }
 
     .sitenav-on {
-        display: block;
+        display: none;
         -webkit-transition-duration: 500ms;
         transition-duration: 500ms
     }
@@ -1600,8 +1600,9 @@ body {
         display: block
     }
 
-    .b-listtab-main .item, .b-listtab-main .cover { height: auto !important; width: auto !important;;}
-    .b-listtab-main .cover{ width:197px !important; height: 110px !important;}
+    .b-listtab-main .item, .b-listtab-main .cover { height: auto !important; width:44% !important;}
+    .b-listtab-main .cover{ width:100% !important; height: auto !important;}
+    .b-listtab-main .cover img{ height: 100px !important;}
     .b-listfilter-item{ width:100% !important; padding:1px !important;}
     .footer_m{ display: block;}
 
