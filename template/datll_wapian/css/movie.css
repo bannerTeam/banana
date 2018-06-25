@@ -47,8 +47,12 @@
     font-size: 14px;
     white-space:nowrap;
     word-wrap:break-word;
-    margin:5px 20px 5px 0px;
+    margin:5px 17px 5px 0px;
     padding:2px 0px;
+}
+
+.b-listfilter-item .item a:hover{
+    text-decoration: underline !important;
 }
 
 .b-listfilter-item .act
